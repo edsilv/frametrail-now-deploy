@@ -1,5 +1,6 @@
 #FROM kstaken/apache2
 #FROM 1and1internet/ubuntu-16-apache-php-5.6
+# https://github.com/lmullen/omeka-s-docker/blob/master/Dockerfile
 FROM tutum/apache-php:latest
 
 #RUN apt-get update
