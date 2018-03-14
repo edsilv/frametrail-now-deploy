@@ -6,4 +6,4 @@
 
 To deploy:
 
-    now && now alias
+    now && now alias my-alias
